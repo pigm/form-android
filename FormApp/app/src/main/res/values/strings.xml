@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FormApp</string>
+    <string name="title_form">Informacion personal</string>
+    <string name="sub_title_form">Completa el siguiente formulario con tu información personal.</string>
+    <string name="label_rut">Rut: %s</string>
+    <string name="label_name">Name: %s</string>
+    <string name="label_age">Edad: %s años</string>
+    <string name="user_image_description">imagen del usuario</string>
+    <string name="user_image_tooltip">Agrega una foto de perfil.</string>
+    <string name="error_visualization_user">Ocurrió un error al visualizar el usuario. Por favor, valida tu información.</string>
+    <string name="warning_take_photo">Esta funcionalidad no se encuentra disponible.</string>
+</resources>
